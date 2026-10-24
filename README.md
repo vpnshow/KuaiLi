@@ -1,6 +1,6 @@
 <a id="kuaili-vpn-review"></a>
 
-# 快狸(KuaiLi)VPN官网注册地址｜真实测速｜价格与套餐详解
+# 快狸(KuaiLi)VPN官网注册地址｜线路资料｜价格与套餐详解
 
 [完整详情与最新套餐](https://eoht.net/serve/airport/kuaili) · [机场仓库汇总](https://github.com/vpnshow/airport-summary)
 
@@ -65,6 +65,18 @@
 ![快狸(KuaiLi) 三网拓扑](https://i.eoht.net/airport/kuaili_analyze.webp)
 
 ![快狸(KuaiLi) 流媒体解锁图](https://i.eoht.net/airport/kuaili_fulltest.webp)
+
+**历史解锁图摘录**：图内时间为 **2026-06-27 15:11:12（CST）**，来源为本页已有 MiaoKo 基础流媒体检测截图，原始提供者未记录。页脚标注珠海联通 9Gbps 单线程、主端 4.3.3、喵速 4.7.0；下面摘录 VLESS 节点的延迟及部分平台结果。
+
+| 节点摘录 | TLS RTT | HTTPS 延迟 | Netflix | Disney+ | TikTok | OpenAI |
+| --- | --- | --- | --- | --- | --- | --- |
+| JP日本01 | 272ms | 1074ms | N/A | 解锁(JP) | 失败 | 解锁(JP) |
+| SG新加坡01 | 244ms | 1143ms | 解锁(SG) | 解锁(US) | 解锁(SG) | 解锁(SG) |
+| US美国01 | 430ms | 1965ms | 解锁(US) | 解锁(US) | 解锁(US) | 解锁(US) |
+| TW台湾10 | 258ms | 1085ms | 解锁(GB) | 解锁(GB) | 失败 | 解锁(TW) |
+| HK香港18 | 282ms | 1648ms | N/A | N/A | 失败 | N/A |
+
+这些数值是延迟，不是下载速度。平台地区沿用检测结果，未根据节点名称改写；N/A 表示图中未给出可判定结果，不能当成解锁成功。检测使用的账号、内容样本和复测次数未记录，也不能从拓扑图推导带宽。
 
 <a id="kuaili-related-guides"></a>
 
