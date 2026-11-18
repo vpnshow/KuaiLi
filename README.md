@@ -4,17 +4,17 @@
 
 [完整详情与最新套餐](https://eoht.net/serve/airport/kuaili) · [机场仓库汇总](https://github.com/vpnshow/airport-summary)
 
-快狸（KuaiLi）提供可导入兼容代理客户端的机场订阅，常见叫法包括“KuaiLi VPN”“快狸梯子”和“快狸机场”。本文整理套餐、网络拓扑和流媒体解锁记录，但当前没有可用于判断实际速度的有效测速图。
-
 > [!NOTE]
 > **30 秒看懂快狸**
 >
-> - **最低门槛**：30GB/月年付小包 ¥120；希望按月付款可看 50GB 月付 ¥15。
-> - **核心特点**：从 30GB 小包到 1TB 月度套餐，兼容多种代理客户端。
-> - **优惠与证据**：专属码享全场 8 折，另有新老用户 9 折码；页面提供网络拓扑和流媒体解锁记录，不将其当作实际测速。
+> [访问官网](https://eoht.net/serve/airport/kuaili) · [查看套餐与优惠](#kuaili-vpn-plans) · [查看拓扑与解锁](#kuaili-speed-test) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
 >
-> [查看套餐与优惠](#kuaili-vpn-plans) · [查看拓扑与解锁](#kuaili-speed-test) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
+> - **入门方案**：年付小包 ¥120/年、30GB/月；希望按月付款可看 ¥15/月、50GB 的方案。
+> - **服务方式**：从 30GB 小包到 1TB 月度套餐，订阅兼容多种代理客户端，可按实际用量选择。
+> - **优惠与证据**：专属码享全场 8 折，另有新老用户 9 折码；页面提供网络拓扑和流媒体解锁记录，**没有可判断实际速度的有效测速图**。
 >
+
+快狸（KuaiLi）提供可导入兼容代理客户端的机场订阅，常见叫法包括“KuaiLi VPN”“快狸梯子”和“快狸机场”。本文整理套餐、网络拓扑和流媒体解锁记录，但当前没有可用于判断实际速度的有效测速图。
 
 <a id="kuaili-official-website"></a>
 
